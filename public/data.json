@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Tokyo Shadow Hoodie",
+    "price": 1850,
+    "category": "Hoodies",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "Oversized black hoodie with a bold anime-inspired streetwear design."
+  },
+  {
+    "id": 2,
+    "name": "Neon Samurai T-Shirt",
+    "price": 950,
+    "category": "T-Shirts",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "Premium cotton t-shirt featuring a futuristic samurai graphic."
+  },
+  {
+    "id": 3,
+    "name": "Cyber Ronin Jacket",
+    "price": 2450,
+    "category": "Jackets",
+    "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5",
+    "sizes": ["M", "L", "XL"],
+    "description": "Modern streetwear jacket inspired by cyberpunk and Japanese culture."
+  },
+  {
+    "id": 4,
+    "name": "Akira Street Tee",
+    "price": 1100,
+    "category": "T-Shirts",
+    "image": "https://images.unsplash.com/photo-1503341504253-dff4815485f1",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "Minimal anime-style graphic tee made for everyday streetwear."
+  },
+  {
+    "id": 5,
+    "name": "Midnight Cargo Pants",
+    "price": 1750,
+    "category": "Pants",
+    "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f",
+    "sizes": ["30", "32", "34", "36"],
+    "description": "Relaxed-fit cargo pants with a clean urban streetwear look."
+  },
+  {
+    "id": 6,
+    "name": "Shadow Oni Cap",
+    "price": 750,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1521369909029-2afed882baee",
+    "sizes": ["One Size"],
+    "description": "Classic black cap featuring a subtle Japanese oni-inspired design."
+  }
+]

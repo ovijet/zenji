@@ -16,14 +16,13 @@ const AllProduct = async () => {
   return (
     <section className="py-16 px-5">
       <div className="max-w-7xl mx-auto">
-
         <div className="mb-10">
           <p className="text-sm tracking-[0.3em] uppercase text-gray-500">
             ZENJI COLLECTION
           </p>
 
           <h1 className="text-4xl md:text-5xl font-black italic uppercase mt-2">
-            Shop All
+            Shop All Btn
           </h1>
         </div>
 
@@ -32,10 +31,10 @@ const AllProduct = async () => {
             <AllProductCard
               key={product.id}
               product={product}
+              FetchData={FetchData()}
             />
           ))}
         </div>
-
       </div>
     </section>
   );
